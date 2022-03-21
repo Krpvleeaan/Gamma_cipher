@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Gamma\Gamma\bin\Debug\Gamma.exe.config
+C:\Users\User\source\repos\Gamma\Gamma\bin\Debug\Gamma.exe
+C:\Users\User\source\repos\Gamma\Gamma\bin\Debug\Gamma.pdb
+C:\Users\User\source\repos\Gamma\Gamma\obj\Debug\Gamma.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Gamma\Gamma\obj\Debug\Gamma.Form1.resources
+C:\Users\User\source\repos\Gamma\Gamma\obj\Debug\Gamma.Properties.Resources.resources
+C:\Users\User\source\repos\Gamma\Gamma\obj\Debug\Gamma.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Gamma\Gamma\obj\Debug\Gamma.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Gamma\Gamma\obj\Debug\Gamma.exe
+C:\Users\User\source\repos\Gamma\Gamma\obj\Debug\Gamma.pdb
